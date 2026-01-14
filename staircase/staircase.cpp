@@ -1,4 +1,3 @@
-
 //Write a program that prints a staircase of size n
 
 #include<iostream>
